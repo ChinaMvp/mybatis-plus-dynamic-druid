@@ -1,1 +1,1 @@
-# mybatis-plus-dynamic-druid
+#这是一个springboot整合mybatis-plus、druid连接池和动态多数据源的示例。

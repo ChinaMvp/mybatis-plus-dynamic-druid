@@ -12,6 +12,7 @@
     <groupId>com.mvp.world</groupId>
     <artifactId>mybatis-plus-dynamic-druid</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>mybatisplus-dynamic-druid</packaging>
     <name>mybatis-plus-dynamic-druid</name>
     <description>Demo project for Spring Boot</description>
 
@@ -64,6 +65,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
+            <version>8.0.23</version>
             <scope>runtime</scope>
         </dependency>
 

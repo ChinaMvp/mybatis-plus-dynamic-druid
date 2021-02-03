@@ -12,7 +12,7 @@
     <groupId>com.mvp.world</groupId>
     <artifactId>mybatis-plus-dynamic-druid</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>mybatisplus-dynamic-druid</packaging>
+    <packaging>mybatisplusdynamicdruid</packaging>
     <name>mybatis-plus-dynamic-druid</name>
     <description>Demo project for Spring Boot</description>
 
